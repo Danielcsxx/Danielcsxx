@@ -1,5 +1,5 @@
 👋 <b> Olá, Eu sou o Danielcsxx </b>
-- 🌱🖥 Atualmente estou estudando sobre Desenvolvimento de Software, mais precisamente <b> JavaScript, HTML e CSS. </b><br>
+- 🌱🖥 Atualmente estou estudando sobre Desenvolvimento de Software, mais precisamente <b> JavaScript, HTML5 e CSS3. </b><br>
 Meu objetivo e aprender cada vez mais e atuar como Desenvolvimento de Software. 😄
 
 <!---
