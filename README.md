@@ -1,6 +1,6 @@
 👋 <b> Olá, Eu sou o Danielcsxx </b>
-- 🌱🖥 Atualmente estou estudando sobre Desenvolvimento de Software, mais precisamente <b> JavaScript, HTML5 e CSS3. </b><br>
-Meu objetivo atual e ingressar na área. Aprendendo novos recursos e atuar como Desenvolvedor de Software. 😄
+- 🌱🖥 Atualmente estou estudando sobre Desenvolvimento de Software, mais precisamente <b> JavaScript, HTML5 e CSS3. </b><br> 
+ Aprendendo a cada dia novos recursos. Meu objetivo primário é de atuar como Dev. 😄
 
 <!---
 Danielcsxx/Danielcsxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
