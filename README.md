@@ -2,7 +2,7 @@
 <br>
 🖥 Atualmente estou estudando<b> JavaScript, HTML5 e CSS3.
 <br> 
-Conforme eu for adquirindo novas skills, irei upar todos os meus projetos por aqui.<br> Meu objetivo primário é de entrar/atuar como Dev. nesse mercado incrível de tecnologia!          
+Conforme eu for adquirindo novas skills, irei upar todos os meus projetos por aqui.<br> Meu objetivo primário é de entrar/atuar como Dev. nesse mercado incrível de tecnologia!<br>          
 Meu primeiro site https://danielcsxx.netlify.app/ desenvolvido com HTML5 CSS3 E Javascript 😄<br>
 Atualmente estudando logica de programação com Javascript e também Git.
 <!---
