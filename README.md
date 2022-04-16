@@ -1,19 +1,25 @@
-👋 <b> Olá, Eu sou o Danielcsxx </b><br>
+<b> Olá, Eu sou o Danielcsxx </b><br>
 <br>
-🖥 Atualmente estou estudando<b> JavaScript, HTML5 e CSS3.
-<br> 
-Conforme eu for adquirindo novas skills, irei upar todos os meus projetos por aqui.<br> Meu objetivo primário é de entrar/atuar como Dev. nesse mercado incrível de tecnologia!<br>          
-Meu primeiro site https://danielcsxx.netlify.app/ desenvolvido com HTML5 CSS3 E Javascript 😄<br>
-Atualmente estudando logica de programação com Javascript e também Git.
+Atualmente estou dquirindo mais e novas SKILLS no 
+   <img align="center" height="30" width="40" alt="HTML5-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+   <img align="center" height="30" width="40" alt="CSS3-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+   <img align="center" height="30" width="40" alt="JS-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" height="30" width="40" alt="Git-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">       
+ <br> 
+Por aqui irei upar meus projetos e trabalhos.<br>
+Meu objetivo primário é de entrar/atuar como Dev. nesse mercado incrível de tecnologia!<br>          
+Aqui está o meu primeiro projeto https://danielcsxx.netlify.app/ <br>
+Desenvolvido  e criado do zero com o uso de algumas das skills adquiridas no <b> HTML5, CSS3, Git e Javascript. 😄<br>
+Atualmente estudando mais a fundo sobre lógica de programação com Javascript.
 <!---
 Danielcsxx/Danielcsxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
- 
- <!---- <div style="display: inline_block">
-   <img align="center" height="30" width="40" alt="Html5-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-   <img align="center" height="30" width="40" alt="Css3-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   <img align="center" height="30" width="40" alt="Js-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"     
+<!--- // icones + as especificações de tamanhos. //
+ <div style="display: inline_block">
+   <img align="center" height="30" width="40" alt="HTML5-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+   <img align="center" height="30" width="40" alt="CSS3-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+   <img align="center" height="30" width="40" alt="JS-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" height="30" width="40" alt="Git-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">       
  </div>
- ---->
+--->
