@@ -1,10 +1,10 @@
 <b> Olá, Eu sou o Danielcsxx </b><br>
 <br>
 <strong><i>Atualmente estou dquirindo mais e novas SKILLS no</i></strong> 
-   <img align="center" height="30" width="40" alt="HTML5-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-   <img align="center" height="30" width="40" alt="CSS3-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   <img align="center" height="30" width="40" alt="JS-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" height="30" width="40" alt="Git-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center" height="30" width="40" alt="HTML5-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-
+   <img align="center" height="30" width="40" alt="CSS3-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">-
+   <img align="center" height="30" width="40" alt="JS-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-
+   <img align="center" height="30" width="40" alt="Git-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">-
    <img align="center" height="30" width="40" alt="GitHub-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">          
  <br> 
 Por aqui irei upar meus projetos e trabalhos.<br>
