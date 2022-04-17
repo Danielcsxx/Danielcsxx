@@ -1,7 +1,7 @@
 <b> Olá, Eu sou o Danielcsxx </b><br>
 <br>
-Atualmente estou dquirindo mais e novas SKILLS no 
-   <img align="center" height="30" width="40" alt="HTML5-icone" target="_blank" href="https://github.com/Danielcsxx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<strong><i>Atualmente estou dquirindo mais e novas SKILLS no</i></strong> 
+   <img align="center" height="30" width="40" alt="HTML5-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" height="30" width="40" alt="CSS3-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" alt="JS-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" height="30" width="40" alt="Git-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
