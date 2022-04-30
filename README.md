@@ -11,6 +11,7 @@ Por aqui irei upar meus projetos e trabalhos.<br>
 Meu objetivo primário é de entrar/atuar como Dev. nesse mercado incrível de tecnologia!<br>          
 Aqui está o meu primeiro projeto https://danielcsxx.netlify.app/ <br>
 Desenvolvido  e criado do zero com o uso de algumas das skills adquiridas no <b> HTML5, CSS3, Git e Javascript. 😄<br>
+
 Atualmente estudando mais a fundo sobre lógica de programação com Javascript.
 <!---
 Danielcsxx/Danielcsxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
