@@ -1,7 +1,7 @@
-<b> Olá! Eu sou o Danielcsxx. </b> 😄 <br>
+<b> Olá! Eu sou o Danielcsxx. </b>😄 <br>
 <br>
 Aqui é o meu portfólio onde salvo os meus projetos, estudos e trabalhos.<br>
-Meu objetivo primário é de entrar/atuar como Dev.<br>          
+Meu objetivo primário é de entrar/atuar como Dev. na área o quanto antes! 🎯<br>          
 Atualmente estudando POO em Javascript.<br>
 <div>
    <img align="center" height="30" width="40" alt="HTML5-icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-
