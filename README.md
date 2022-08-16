@@ -22,4 +22,4 @@ Meu objetivo primário é de entrar/atuar como Dev. na área o quanto antes! �
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcsxx&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-![Snake animation](https://github.com/Danielcsxx/Danielcsxx/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielcsxx/danielcsxx/blob/output/github-contribution-grid-snake.svg)
