@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Danielcsxx
 <br>
 Aqui é o meu portfólio onde salvo os meus projetos, estudos e trabalhos.<br>
-Meu objetivo primário é de entrar/atuar como Dev. na área o quanto antes! 🎯<br>          
+Meu objetivo primário é de entrar/atuar como Dev. na área. 🎯<br>          
 
 ## Tecnologias que eu uso no meu dia a dia
 
