@@ -23,6 +23,8 @@ Meu objetivo primário é de entrar/atuar como Dev. na área. 🎯<br>
   <br/>
  </div>
   <br/>
+  
+  <a href="https://linktr.ee/daniel.csxx" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 
 ## Meus dados no Github 📈
   
