@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Danielcsxx
 <br>
 Aqui é o meu portfólio onde salvo os meus projetos, estudos e trabalhos.<br>
-Meu objetivo primário é de entrar/atuar como Dev. na área. 🎯<br>          
+No momento estou em transição de carreira,<br/>
+Com isso, o meu objetivo primário é de entrar/atuar fulltime na área como Desenvolvedor. 🎯<br>          
 
-## Tecnologias que eu uso no meu dia a dia
+## Tecnologias que eu estudo e faço uso no meu dia a dia
 
 <div style="display: inline_block">
   <img align="center" alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
@@ -24,7 +25,10 @@ Meu objetivo primário é de entrar/atuar como Dev. na área. 🎯<br>
  </div>
   <br/>
   
-  <a href="https://linktr.ee/daniel.csxx" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  ## _Meus contatos_ 
+  <a href="https://linktr.ee/daniel.csxx" target="_blank"><img align="center" alt="linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <br/>
+  <br/>
 
 ## Meus dados no Github 📈
   
