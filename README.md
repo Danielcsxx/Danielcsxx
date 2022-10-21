@@ -2,7 +2,7 @@
 <br>
 Aqui é o meu portfólio onde salvo os meus projetos, estudos e trabalhos.<br>
 No momento estou em transição de carreira,<br/>
-Com isso, o meu objetivo primário é de entrar/atuar fulltime na área como Desenvolvedor. 🎯<br>          
+Com isso, o meu objetivo primário é de entrar/atuar fulltime na área como Dev. 🎯<br>          
 
 ## Tecnologias que eu estudo e faço uso no meu dia a dia
 
