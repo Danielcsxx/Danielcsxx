@@ -33,13 +33,11 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas.<br/>
  <a href="https://linktr.ee/daniel.csxx" target="_blank"><img align="center" alt="linktree" src="https://img.shields.io/badge/linktree-20232A?style=for-the-badge&logo=linktree&logoColor=39E09B" target="_blank"></a>
   <br/>
   <br/>
-
-<hr>
-  
+<!--
 <div >
   <a href="https://github.com/Danielcsxx">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielcsxx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&card_width=400"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcsxx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
-
+-->
 <!-- ![Snake animation](https://github.com/danielcsxx/danielcsxx/blob/output/github-contribution-grid-snake.svg) -->
