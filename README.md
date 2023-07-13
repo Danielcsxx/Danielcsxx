@@ -26,6 +26,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas.<br/>
   <img align="center" alt="vscode" src="https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" /> 
   <img align="center" alt="npm" src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837" />
   <img align="center" alt="yarn" src="https://img.shields.io/badge/Yarn-20232A?style=for-the-badge&logo=yarn&logoColor=2C8EBB" /> 
+  <img align="center" alt="jira" src="https://img.shields.io/badge/jira-20232A?style=for-the-badge&logo=jira&logoColor=0052CC" /> 
  </div>
   <br/>
   
