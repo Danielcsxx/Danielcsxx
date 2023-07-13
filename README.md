@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=_#1A2817&height=120&section=header"/>
+
+
 ## Olá, seja bem-vindo(a) ao meu perfil! 👋
 <br/>
 Meu nome é Daniel e sou Desenvolvedor de Software. <br/>
