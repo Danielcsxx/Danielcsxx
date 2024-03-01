@@ -5,7 +5,7 @@
 Meu nome é Daniel e sou Desenvolvedor de Software. <br/>
 Sou apaixonado por tecnologia e estou sempre aprimorando o meu conhecimento, <br/>
 Tanto por meio dos estudos como também com o desenvolvimento do código na prática.<br/>
-Atualmente estou cursando o 3º período em Análise e Desenvolvimento de Sistemas.<br/>         
+Atualmente estou cursando o 4º período em Análise e Desenvolvimento de Sistemas.<br/>         
 <br/>
 
 ### 🧠 Atualmente, possuo conhecimento em:
