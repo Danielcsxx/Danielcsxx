@@ -46,8 +46,8 @@ como também contribuindo com conhecimento em grupos de estudos no Discord.<br/>
 </div>
 <br/>
 
-### 🌟 Meu mais novo Portfólio 😄
-[<img align="center" alt="javascript" src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=todoist&logoColor=152AE6" />](https://danielcsxx.netlify.app)
+### 🌟 Portfólio
+[<img align="center" alt="javascript" src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=todoist&logoColor=152AE6" />](https://portfolio-danielcsxx.netlify.app)
 <br/>
 <br/>
   
