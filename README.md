@@ -16,6 +16,7 @@ oferecendo soluções eficientes e criativas que agreguem valor ao negócio. <br
 <div style="display: inline_block, border-radius: 3px ">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC" /> 
   <br/>
   <br/>
